@@ -1,0 +1,9 @@
+# Roblox Studio temporary files
+*.rbxlx.bak
+*.rbxl.bak
+*.rbxlx.autosave
+*.rbxl.autosave
+
+# Editor files
+.vscode/
+.idea/
